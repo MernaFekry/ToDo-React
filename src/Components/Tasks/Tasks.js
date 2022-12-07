@@ -1,7 +1,6 @@
 import React from 'react';
 import './Tasks.css';
 import { useState ,useEffect} from 'react';
-import Task from './../Task/Task';
 
 
 export default function Tasks() {
