@@ -1,0 +1,22 @@
+
+/* .task{
+    display: flex;
+    justify-content: center;
+    background-image: url('../../images/bgimg.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.container{
+    background-color: rgb(206, 195, 178);
+} */
+
+.checkBox{
+    /* font-size: larger; */
+    margin-top: 5px;
+    width: 30px !important;
+    height: 30px !important;
+
+    cursor: pointer;
+}
